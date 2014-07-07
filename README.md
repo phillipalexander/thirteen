@@ -2,8 +2,6 @@
 
 Take any number and...
 
-[![build status](https://secure.travis-ci.org/phillipalexander/thirteen.png)](http://travis-ci.org/phillipalexander/thirteen)
-
 ## Installation
 
 This module is installed via npm:
@@ -16,4 +14,10 @@ $ npm install thirteen
 
 ``` js
 var thirteen = require('thirteen');
+```
+
+## Tests
+
+``` sh
+grunt
 ```
