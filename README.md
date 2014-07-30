@@ -1,6 +1,6 @@
 # thirteen
 
-Take any number and...
+Take any number and multiply by thirteen.
 
 ## Installation
 
