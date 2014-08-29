@@ -19,6 +19,6 @@ var thirteen = require('thirteen');
 
 ## Tests
 
-``` sh
+``` bash
 grunt
 ```
