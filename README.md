@@ -1,6 +1,7 @@
 # thirteen
 
-Take any number and multiply by thirteen.
+Take any number (or anything that _thinks_ it's a number)
+and multiply by thirteen.
 
 ## Installation
 

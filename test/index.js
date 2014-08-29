@@ -14,4 +14,15 @@ describe('thirteen', function() {
     expect(thirteen(10)).to.not.eql(120);
     done();
   });
+  it('should return its arguments number-like value multiplied by thirteen', function(done) {
+    var wannabeString = {};
+    var wannabeValue = {};
+
+    wannabeString.toString = function() { return '13'; };
+    wannabeValue.valueOf = function() { return '13'; };
+
+    expect(thirteen(wannabeString)).to.eql(169);
+    expect(thirteen(wannabeValue)).to.eql(169);
+    done();
+  });
 });
