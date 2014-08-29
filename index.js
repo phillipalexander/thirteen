@@ -1,5 +1,5 @@
 module.exports = function thirteen(number) {
-  if (number !== undefined && typeof number !== "number") {
+  if (number !== undefined && typeof number != "number") {
     // Can number be cast to a number?
     if (!isNaN(+number.toString())) {
       return +number.toString() * 13;
