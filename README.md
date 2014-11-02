@@ -25,7 +25,7 @@ var thirteen = require('thirteen');
 ## Tests
 
 ``` bash
-grunt
+grunt test
 ```
 
 [13]:http://en.wikipedia.org/wiki/13_(number)
