@@ -1,4 +1,4 @@
-# thirteen (13)
+# thirteen (13 aka XIII)
 
 Take any number (or anything that _thinks_ it's a number)
 and multiply by [thirteen][13].
