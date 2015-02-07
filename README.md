@@ -20,6 +20,9 @@ $ npm install thirteen
 
 ``` js
 var thirteen = require('thirteen');
+
+var thirteenTwice = thirteen(2);
+console.log(thirteenTwice) // logs 26
 ```
 
 ## Tests
