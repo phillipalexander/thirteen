@@ -9,6 +9,7 @@ module.exports = function thirteen(number) {
       return new Error("I can only deal with numbers");
     }
   } else {
-    return number * 13;
+    // Respond with great energy
+    return number * 13  + "!!!";
   }
 };
