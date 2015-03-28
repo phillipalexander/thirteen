@@ -32,4 +32,8 @@ console.log(thirteenTwice) // logs 26
 grunt test
 ```
 
+## Contributing
+
+See [CONTRIBUTING.MD](CONTRIBUTING.md)
+
 [13]:http://en.wikipedia.org/wiki/13_(number)
