@@ -1,6 +1,10 @@
 # thirteen
+<<<<<<< HEAD
 
 #### (13, XIII, 十三, trece, तेरह, ثلاثة عشر, тринадцать, treze, dreizehn, baker's dozen, 11012)
+=======
+#### (13, XIII, 十三, trece, तेरह, ثلاثة عشر, тринадцать, treze, dreizehn, 1101)
+>>>>>>> Added binary equivalent to "thirteen" on readme.md
 
 Take any number (or anything that _thinks_ it's a number)
 and multiply by [thirteen][13].
