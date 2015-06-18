@@ -1,5 +1,4 @@
 # thirteen
-
 #### (13, XIII, 十三, trece, तेरह, ثلاثة عشر, тринадцать, treze, dreizehn, baker's dozen, 11012)
 
 Take any number (or anything that _thinks_ it's a number)
