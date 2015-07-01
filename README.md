@@ -4,9 +4,10 @@
 Take any number (or anything that _thinks_ it's a number)
 and multiply by [thirteen][13].
 
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/f/f3/13_%28ALESA%29.jpg)
+
 From [Wikipedia][13]:
 > 13 (thirteen /θɜrˈtiːn/) is the natural number following 12 and preceding 14.
->![alt tag](https://upload.wikimedia.org/wikipedia/commons/f/f3/13_%28ALESA%29.jpg)
 
 > In spoken English, the numbers 13 and 30 are often confused. When carefully enunciated, they differ in which syllable is stressed: 13 Listeni/θərˈtiːn/ vs. 30 /ˈθɜrti/. However, in dates such as 1300 ("thirteen hundred") or when contrasting numbers in the teens, such as 13, 14, 15, the stress shifts to the first syllable: 13 /ˈθɜrtiːn/.
 
