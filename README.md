@@ -1,5 +1,5 @@
 # thirteen
-#### (13, XIII, 十三, trece, 열세, तेरह, ثلاثة عشر, тринадцать, treze, dreizehn, baker's dozen, 11012, שלוש עשרה)
+#### (13, XIII, 十三, trece, tredici, 열세, तेरह, ثلاثة عشر, тринадцать, treze, dreizehn, baker's dozen, 11012, שלוש עשרה)
 
 Take any number (or anything that _thinks_ it's a number)
 and multiply by [thirteen][13].
