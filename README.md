@@ -10,6 +10,7 @@ From [Wikipedia][13]:
 > In spoken English, the numbers 13 and 30 are often confused. When carefully enunciated, they differ in which syllable is stressed: 13 Listeni/θərˈtiːn/ vs. 30 /ˈθɜrti/. However, in dates such as 1300 ("thirteen hundred") or when contrasting numbers in the teens, such as 13, 14, 15, the stress shifts to the first syllable: 13 /ˈθɜrtiːn/.
 
 Further clairity on how to count implement a count to thirteen, epistemic certainty courtesy of @CountVonCount:
+
 [![Counting to Thirteen](http://img.youtube.com/vi/XDQU0CcVKFI/0.jpg)](https://www.youtube.com/watch?v=XDQU0CcVKFI)
 
 ## Installation
