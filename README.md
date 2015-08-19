@@ -1,8 +1,6 @@
 # thirteen
 #### (13, XIII, 十三, trece, तेरह, ثلاثة عشر, тринадцать, treze, dreizehn, baker's dozen, 11012)
 
-![](http://3.bp.blogspot.com/-HwVI7rIAKcA/UrDM_76QemI/AAAAAAAAFRs/FafL0KW80r0/s1600/13feliz.gif)
-
 Take any number (or anything that _thinks_ it's a number)
 and multiply by [thirteen][13].
 
@@ -10,6 +8,9 @@ From [Wikipedia][13]:
 > 13 (thirteen /θɜrˈtiːn/) is the natural number following 12 and preceding 14.
 
 > In spoken English, the numbers 13 and 30 are often confused. When carefully enunciated, they differ in which syllable is stressed: 13 Listeni/θərˈtiːn/ vs. 30 /ˈθɜrti/. However, in dates such as 1300 ("thirteen hundred") or when contrasting numbers in the teens, such as 13, 14, 15, the stress shifts to the first syllable: 13 /ˈθɜrtiːn/.
+
+Further clairity on how to count implement a count to thirteen, epistemic certainty courtesy of @CountVonCount:
+[![Counting to Thirteen](http://img.youtube.com/vi/XDQU0CcVKFI/0.jpg)](https://www.youtube.com/watch?v=XDQU0CcVKFI)
 
 ## Installation
 
