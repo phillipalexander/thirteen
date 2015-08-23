@@ -7,11 +7,14 @@ describe('thirteen', function () {
   });
 
   it('should return its argument multiplied by thirteen', function () {
-    expect(thirteen(10)).to.eql(130);
+    // Cast to number from string for test comparison. Test will pass even if value is returned with more force (i.e. "130!!!!!!!!").
+    var returnedAsNumber = parseFloat(thirteen(10).replace(/\!/g, ""));
+    expect(returnedAsNumber).to.eql(130);
   });
 
   it('should NOT return its argument multiplied by twelve', function () {
-    expect(thirteen(10)).to.not.eql(120);
+    var returnedAsNumber = parseFloat(thirteen(10).replace(/\!/g, ""));
+    expect(returnedAsNumber).to.not.eql(120);
   });
 
   it('should return its arguments number-like value multiplied by thirteen', function () {
@@ -25,4 +28,3 @@ describe('thirteen', function () {
     expect(thirteen(wannabeValue)).to.eql(169);
   });
 });
-
