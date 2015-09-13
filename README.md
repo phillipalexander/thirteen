@@ -1,3 +1,5 @@
+[![Issue Stats](http://issuestats.com/github/phillipalexander/thirteen/badge/pr?style=flat)](http://issuestats.com/github/phillipalexander/thirteen)
+
 # thirteen
 #### (13, XIII, 十三, trece, tredici, 열세, तेरह, ثلاثة عشر, тринадцать, treze, dreizehn, baker's dozen, 11012, שלוש עשרה)
 
