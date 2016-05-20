@@ -27,7 +27,8 @@ _Sources:_
 * http://io9.com/5977095/why-we-should-switch-to-a-base-12-counting-system 
 * http://www.sf.airnet.ne.jp/ts/language/number/alamblak.html 
 
-Further clairity on how to implement a "count" to thirteen (epistemic certainty courtesy of @CountVonCount)
+## Counting To Thirteen
+> Epistemic certainty courtesy of @CountVonCount:
 
 [![Counting to Thirteen](http://img.youtube.com/vi/XDQU0CcVKFI/0.jpg)](https://www.youtube.com/watch?v=XDQU0CcVKFI)
 
