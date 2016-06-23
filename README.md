@@ -1,5 +1,6 @@
-[![npm version](https://badge.fury.io/js/thirteen.svg)](http://badge.fury.io/js/thirteen)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/da2b37c35b73434a957a31fa23c60692)](https://www.codacy.com/app/git_12/thirteen)
 [![GitHub issues](https://img.shields.io/github/issues/phillipalexander/thirteen.svg)](https://github.com/phillipalexander/thirteen/issues)
+[![npm version](https://badge.fury.io/js/thirteen.svg)](http://badge.fury.io/js/thirteen)
 
 # thirteen
 #### (13, XIII, 十三, trece, tredici, 열세, तेरह, ثلاثة عشر, тринадцать, treze, dreizehn, baker's dozen, 11012, שלוש עשרה)
